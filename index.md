@@ -3,7 +3,7 @@
 experience looking to utilize my creativity and problem-solving skills in a UI/UX
 designer role.*
 
-### 👩‍💻 EXPERIENCE
+### 👩🏻‍💻 EXPERIENCE
 __Full Stack Web Developer__ @ Insan Wa Alat *(July 2021 - Present)*
 - Designing front-end and back-end for web applications.
 - Ensuring responsiveness and cross-platform optimization for
@@ -20,9 +20,26 @@ __Illustrator & Designer__ @ Raqsh Wa Naqsh *(July 2016 - July 2017)*
 - Created custome art pieces for clients.
 - Designed full company branding following provided briefs.
 
-### 👩‍🎓 EDUCATION
+### 👩🏻‍🎓 EDUCATION
 __UX Design Essentials__ in Adobe XD  
 Udemy — Online *(April - May 2022)*
 
 __Bachelor of Science__ in Computer Science  
 Princess Sumaya University for Technology — Amman, Jordan *(Sept 2017 - August 2021)*
+
+### 🔧 SKILLS
+__Design__
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Figma
+
+__Development__
+- HTML/CSS
+- JavaScript
+- JQuery
+- PHP
+
+### 💬 LANGUAGE
+__Arabic__: Native speaker
+__English__: Fluent
