@@ -21,8 +21,8 @@ __Illustrator & Designer__ @ Raqsh Wa Naqsh *(July 2016 - July 2017)*
 - Designed full company branding following provided briefs.
 
 ### 👩‍🎓 EDUCATION
-__UX Design Essentials__ in Adobe XD
+__UX Design Essentials__ in Adobe XD  
 Udemy — Online *(April - May 2022)*
 
-__Bachelor of Science__ in Computer Science
+__Bachelor of Science__ in Computer Science  
 Princess Sumaya University for Technology — Amman, Jordan *(Sept 2017 - August 2021)*
