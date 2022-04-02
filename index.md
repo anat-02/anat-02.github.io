@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Anat Hewari
 *A creative and dedicated individual with full stack web development
 experience looking to utilize my creativity and problem-solving skills in a UI/UX
