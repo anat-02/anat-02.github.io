@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.nav_container {
+    margin: 5em 5em 5em 5em;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Raleway', sans-serif;
+}
