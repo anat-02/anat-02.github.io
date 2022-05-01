@@ -1,12 +1,78 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 
-.nav_container {
-    margin: 5em 5em 5em 5em;
+
+.nav-container {
+    font-family: 'Raleway', sans-serif;
+    margin: 5em 20em 5em 20em;
+    display: flex;
+    justify-content: space-between;
 }
 
 .navbar {
     list-style-type: none;
     display: flex;
-    justify-content: space-evenly;
-    font-family: 'Raleway', sans-serif;
+    justify-content: flex-end;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.navbar li {
+    padding-left: 3em;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.navbar li a:hover {
+    color: black;
+}
+
+.wip-container {
+    text-align: center;
+    margin-top: 15em;
+}
+
+#orange-gear {
+    width: 12%;
+    height: 12%;
+}
+
+#yellow-gear {
+    width: 8%;
+    height: 8%
+}
+
+.rotate-clockwise {
+    animation: rotation-clockwise 5s infinite linear;
+  }
+
+@keyframes rotation-clockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.rotate-anticlockwise {
+    animation: rotation-anticlockwise 5s infinite linear;
+  }
+
+@keyframes rotation-anticlockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-359deg);
+  }
+}
+
+#wip-text {
+    color: #443E39;
+    font-size: 2.7em;
+    font-family: 'DotGothic16', sans-serif;
 }
